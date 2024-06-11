@@ -28,6 +28,9 @@ export default function RootLayout({
         <meta property="og:image" content="/bakry.jpg" />
         <meta property="og:url" content="https://bakry2.vercel.app/" />
         <meta name="twitter:card" content="summary_large_image" />
+        <meta name="author" content="Bakry Abdelsalam" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charSet="UTF-8" />
       </head>
       <body className={tajawal.className}> {/* Apply Tajawal font class */}
         <ThemeProvider
