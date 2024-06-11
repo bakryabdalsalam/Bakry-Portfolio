@@ -22,6 +22,11 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <link rel="icon" href="/bakry.png" sizes="any" />
+        <meta property="og:title" content="Bakry Portfolio" />
+        <meta property="og:description" content="Modern & Minimalist Bakry Abdelsalam Portfolio" />
+        <meta property="og:image" content="https://www.google.com/url?sa=i&url=https%3A%2F%2Feg.linkedin.com%2Fin%2Fbakryabdalsalam&psig=AOvVaw0_Jg6EgM-VJzi7Y4nVLky3&ust=1718187099361000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLij7e6n04YDFQAAAAAdAAAAABAE" />
+        <meta property="og:url" content="https://bakry2.vercel.app/" />
+        <meta name="twitter:card" content="summary_large_image" />
       </head>
       <body className={tajawal.className}> {/* Apply Tajawal font class */}
         <ThemeProvider
