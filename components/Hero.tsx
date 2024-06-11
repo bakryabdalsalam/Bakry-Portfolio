@@ -60,7 +60,7 @@ const Hero = () => {
             مرحباً، أنا بكرى، مطور ويب متخصص في تطوير تطبيقات الويب
           </p>
 
-          <a href="#about">
+          <a href="#projects">
             <MagicButton
               title="تصفح مشاريعى"
               icon={<FaLocationArrow />}

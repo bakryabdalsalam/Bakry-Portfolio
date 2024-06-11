@@ -74,7 +74,7 @@ export const projects = [
     title: "متجر سعودى لبيع العبايات",
     des: "لفتة هو متجر سعودى متخصص فى بيع العبايات",
     img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    iconLists: ["/wordpress.svg", "/js.svg", "/php.svg", "/jquery.svg", "/css.svg"],
     link: "https://laftah.com/",
   },
   {
@@ -82,7 +82,7 @@ export const projects = [
     title: "متجر سعودى لبيع منتجات التجميل",
     des: "متجر لفته كير هو متجر الكترونى لبيع منتجات التجميل.",
     img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    iconLists: ["/wordpress.svg", "/js.svg", "/php.svg", "/jquery.svg", "/css.svg"],
     link: "https://lafthcare.com/",
   },
   {
@@ -90,7 +90,7 @@ export const projects = [
     title: "Animated pro موقع",
     des: "شركة AnimatedPlus هي وكالة تصميم فيديو تقدم مجموعة واسعة من خدمات تصميم الفيديو للشركات والأفراد.",
     img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: ["/wordpress.svg", "/js.svg", "/php.svg", "/jquery.svg", "/css.svg"],
     link: "https://animated.plus/",
   },
   {
@@ -98,7 +98,7 @@ export const projects = [
     title: "موقع creativemaster",
     des: "موقع Creative Master هو وكالة متكاملة لتقديم خدمات الإعلان والإعلام والتعليم الرقمي، والمنتجات البصرية",
     img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/wordpress.svg", "/js.svg", "/php.svg", "/jquery.svg", "/css.svg"],
     link: "https://creativemaster.net/",
   },
 ];
@@ -113,7 +113,7 @@ export const testimonials = [
   {
     quote:
       "تجاوز بكري توقعاتنا بكل الطرق الممكنة. خبرته في تطوير ووردبريس لا تضاهى، وكان تفانيه في مشروعنا ملحوظاً. لا يمكننا أن نكون أكثر سعادة بالنتائج. بكري حقاً هو الشريك المثالي لأي مشروع تطوير ويب.",
-    name: "سارة أحمد",
+    name: "منى أحمد",
     title: "مؤسسة ديجيتال ديناميكس",
   },
   {
