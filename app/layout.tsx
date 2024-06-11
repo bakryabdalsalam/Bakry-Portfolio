@@ -11,6 +11,7 @@ const tajawal = Tajawal({
 export const metadata: Metadata = {
   title: "Bakry Portfolio",
   description: "Modern & Minimalist Bakry Abdelsalam Portfolio",
+  keywords: "Bakry, WordPress Developer, Portfolio, ووردبريس المطور, Bakry Abdelsalam, تطوير مواقعو, انشاء موقع, بكري عبدالسلام",
 };
 
 export default function RootLayout({
